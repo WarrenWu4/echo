@@ -1,0 +1,50 @@
+/content/TTS-TT2/wavs/1.npy|The quick brown fox jumps over the lazy dog.
+/content/TTS-TT2/wavs/2.npy|A journey of a thousand miles begins with a single step.
+/content/TTS-TT2/wavs/3.npy|She sells seashells by the seashore.
+/content/TTS-TT2/wavs/4.npy|How much wood would a woodchuck chuck if a woodchuck could chuck wood.
+/content/TTS-TT2/wavs/5.npy|Peter Piper picked a peck of pickled peppers.
+/content/TTS-TT2/wavs/6.npy|The early bird catches the worm.
+/content/TTS-TT2/wavs/7.npy|Practice makes perfect.
+/content/TTS-TT2/wavs/8.npy|All work and no play makes Jack a dull boy.
+/content/TTS-TT2/wavs/9.npy|Actions speak louder than words.
+/content/TTS-TT2/wavs/10.npy|A watched pot never boils.
+/content/TTS-TT2/wavs/11.npy|Can you tell me how to get to the nearest station.
+/content/TTS-TT2/wavs/12.npy|What time does the movie start.
+/content/TTS-TT2/wavs/13.npy|Would you like a cup of tea or coffee.
+/content/TTS-TT2/wavs/14.npy|I think it's going to rain today.
+/content/TTS-TT2/wavs/15.npy|Could you please lower your voice.
+/content/TTS-TT2/wavs/16.npy|That was a fantastic performance.
+/content/TTS-TT2/wavs/17.npy|Let's meet at the park after lunch.
+/content/TTS-TT2/wavs/18.npy|Do you know where I left my keys.
+/content/TTS-TT2/wavs/19.npy|I'd love to visit the mountains this summer.
+/content/TTS-TT2/wavs/20.npy|Have you read the book I recommended.
+/content/TTS-TT2/wavs/21.npy|The sun rises in the east and sets in the west.
+/content/TTS-TT2/wavs/22.npy|Water boils at one hundred degrees Celsius.
+/content/TTS-TT2/wavs/23.npy|The Eiffel Tower is located in Paris France.
+/content/TTS-TT2/wavs/24.npy|Saturn is the second-largest planet in our solar system.
+/content/TTS-TT2/wavs/25.npy|A triangle has three sides.
+/content/TTS-TT2/wavs/26.npy|The Pacific Ocean is the largest ocean on Earth.
+/content/TTS-TT2/wavs/27.npy|Humans have two hundred six bones in their bodies.
+/content/TTS-TT2/wavs/28.npy|Photosynthesis is how plants convert sunlight into energy.
+/content/TTS-TT2/wavs/29.npy|The Great Wall of China is over thirteen thousand miles long.
+/content/TTS-TT2/wavs/30.npy|The speed of light is approximately three hundred thousand kilometers per second.
+/content/TTS-TT2/wavs/31.npy|Wow I can't believe you did that.
+/content/TTS-TT2/wavs/32.npy|That's so exciting.
+/content/TTS-TT2/wavs/33.npy|Oh no what happened.
+/content/TTS-TT2/wavs/34.npy|I'm so happy to see you again.
+/content/TTS-TT2/wavs/35.npy|I can't believe this is happening.
+/content/TTS-TT2/wavs/36.npy|You've got to be kidding me.
+/content/TTS-TT2/wavs/37.npy|I'm really sorry to hear about your loss.
+/content/TTS-TT2/wavs/38.npy|Congratulations on your big achievement.
+/content/TTS-TT2/wavs/39.npy|Ugh this is so frustrating.
+/content/TTS-TT2/wavs/40.npy|I'm so proud of you.
+/content/TTS-TT2/wavs/41.npy|Turn left at the next intersection.
+/content/TTS-TT2/wavs/42.npy|Preheat the oven to three hundred and fifty degrees Fahrenheit.
+/content/TTS-TT2/wavs/43.npy|Insert the plug into the socket and press the power button.
+/content/TTS-TT2/wavs/44.npy|Mix the ingredients together until smooth.
+/content/TTS-TT2/wavs/45.npy|Follow the instructions carefully to assemble the furniture.
+/content/TTS-TT2/wavs/46.npy|Save your work frequently to avoid losing it.
+/content/TTS-TT2/wavs/47.npy|Close the lid tightly to seal the container.
+/content/TTS-TT2/wavs/48.npy|Make sure to wash your hands before eating.
+/content/TTS-TT2/wavs/49.npy|Read the terms and conditions before signing the contract.
+/content/TTS-TT2/wavs/50.npy|Back up your data to an external drive.
